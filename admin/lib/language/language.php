@@ -1,0 +1,43 @@
+<?php
+$lang['Trang chủ'] = "Trang chủ";
+$lang['Du lịch trong nước'] = "Du lịch trong nước";
+$lang['Du lịch quốc tế'] = "Du lịch quốc tế";
+$lang['Giới thiệu'] = "Giới thiệu";
+$lang['Dịch vụ'] = "Dịch vụ";
+$lang['Tin tức'] = "Tin tức";
+$lang['Dự án'] = "Dự án";
+$lang['Khách hàng'] = "Khách hàng";
+$lang['Tuyển dụng'] = "Tuyển dụng";
+$lang['Cơ hội nghề nghiệp'] = "Cơ hội nghề nghiệp";
+$lang['Liên hệ'] = "Liên hệ";
+$lang['Thông tin kỹ thuật'] = "Thông tin kỹ thuật";
+$lang['Hỗ trợ kỹ thuật'] = "Hỗ trợ kỹ thuật";
+$lang['Gửi đi'] = "Gửi đi";
+$lang['Một số dự án tiêu biểu'] = "Một số dự án tiêu biểu";
+$lang['Khách hàng tiêu biểu'] = "Khách hàng tiêu biểu";
+$lang['Chi tiết'] = "Xem chi tiết ...";
+$lang['Xem tất cả'] = "Xem tất cả";
+$lang['Trở về'] = "Trở về";
+$lang['Địa chỉ'] = "Địa chỉ";
+$lang['Tel'] = "Điện thoại";
+$lang['Email không hợp lệ'] = "Email không hợp lệ";
+$lang['Đã gửi'] = "Đã gửi";
+$lang['Gửi'] = "Gửi";
+$lang['Bấm vào đây để tải Brochure'] = "Bấm vào đây để tải Brochure";
+$lang['Updating'] = "Đang cập nhật thông tin.";
+$lang['Góc DNT'] = "Góc DNT";
+$lang['Đăng ký nhận thông tin từ DNT'] = "Đăng ký nhận thông tin từ DNT";
+$lang['Tin tức & Sự kiện'] = 'Tin tức & Sự kiện';
+$lang['Tin DNT'] = 'Tin DNT';
+$lang['Thông tin chuyên ngành'] = 'Thông tin chuyên ngành';
+$lang['doitactib'] = "Đối tác tiêu biểu";
+$lang['nhaptukhoa'] = "tìm kiếm... ";
+$lang['tukhoac'] = "Bạn cần phải Nhập từ khóa tìm kiếm";
+
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+?>

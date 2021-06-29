@@ -1,0 +1,1 @@
+Cufon.replace('#header ul.menu-nav li a', { fontFamily: 'Swis721 Md BT', hover: 'true' });

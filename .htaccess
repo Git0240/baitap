@@ -1,0 +1,26 @@
+RewriteEngine On
+RewriteBase /baitap(1)/baitap(1)/baitap/baitap/
+
+RewriteRule ^default.html$ index.php
+RewriteRule ^index.html$ index.php
+RewriteRule admin/$ admin/index.php [R=301,L]
+RewriteRule ^gio-hang.html$ giohang.php
+RewriteRule ^thanh-toan.html$ thanhtoan.php
+
+RewriteRule ^position.html$ vitri.php
+RewriteRule ^contact.html$ lienhe.php
+RewriteRule ^tim-kiem.html$ timkiem.php
+RewriteRule ^about.html$ gioithieu.php
+RewriteRule ^service.html$ dichvu.php
+RewriteRule ^gallery.html$ hinhanh.php
+RewriteRule ^booking.html$ datphong.php
+
+RewriteRule ^ket-qua-tim-kiem/key=(.*)$ timkiem.php?key=$1
+
+RewriteRule ^room.html$ sanpham.php
+RewriteRule ^room/([\w\W\d-_]+).html$ chitietsanpham.php?idSP=$1 [L]
+RewriteRule ^room/([\w\W\d-_]+)$ sanpham.php?id=$1
+
+RewriteRule ^([\w\W\d-_]+)/$ baiviet.php?id=$1
+RewriteRule ^([\w\W\d-_]+)/&page=([\w\W\d-_]+)$ baiviet.php?id=$1&page=$2
+RewriteRule ^([\w\W\d-_]+).html$ chitietbaiviet.php?id=$1
